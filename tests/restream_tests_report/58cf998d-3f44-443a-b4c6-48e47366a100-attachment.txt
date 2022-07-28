@@ -1,0 +1,2 @@
+INFO     root:conftest.py:22 BASE URL: https://restream.io
+INFO     root:login_page.py:24 Current Url = https://restream.io/login
